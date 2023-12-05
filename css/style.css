@@ -1,5 +1,4 @@
-*   {
-    margin: auto;
+* { margin: auto;
     margin-bottom: 21.7rem;
     text-align: center;
     position: relative;
@@ -8,7 +7,7 @@
     align-content: center;
 }
  
-hr{border-top: solid 10px #202124}
+hr{border-top: solid 1px #202124}
  
 .center{
     justify-content: center;
